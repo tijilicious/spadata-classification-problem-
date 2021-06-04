@@ -9,7 +9,7 @@ Out of a total of 7 features availabe, 5 were used to train the model and predic
 Training data consists of 6000 data points and 514 points for testing.
 
 
-<h1>DATA DESCRIPTION<h1>
+<h1>DATA DESCRIPTION</h1>
   
   ID                  -	Room ID of the particular related GTO
   TimeStamp           - Date and time when the readings were recorded
