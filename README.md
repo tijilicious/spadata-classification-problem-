@@ -1,5 +1,5 @@
 <html>
-# spadata-classification-problem-
+  <h1>DETAILS</h1>
 
 The data set SpaData.csv file contains a total of 6514 data points and a total of 7 features and binary label (0 or 1). 
 
